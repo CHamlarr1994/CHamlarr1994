@@ -12,7 +12,7 @@ Je conçois des projets personnels pour explorer des usages concrets : structure
 | --- | --- | --- |
 | CHamDocs | Rechercher dans plusieurs documents et répondre avec des sources. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamdocs.html) |
 | CHamFlow | Transformer une idée en cadrage et diagramme. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamflow.html) |
-| CHamForm | Importer, vérifier et mettre en forme un CV avec cinq modèles Word. La version publiée porte encore l’ancien nom CHamCV. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamform.html) |
+| CHamForm | Importer un CV Word, PDF ou image et générer un Word modifiable avec photo à partir de cinq modèles balisés pour CHamHunter. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamform.html) |
 | CHamHunter | Comparer une candidature à une annonce et préparer son adaptation. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamhunter.html) |
 
 ## Projets créatifs et explorations personnelles
