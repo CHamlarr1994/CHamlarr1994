@@ -4,21 +4,21 @@ Informatique de gestion · Applications métier et IA appliquée
 
 Je conçois des projets personnels pour explorer des usages concrets : structurer une idée, préparer une candidature, rechercher dans des documents ou créer une expérience de jeu.
 
-Mon portfolio détaillé et les fichiers de démonstration sont actuellement conservés en privé.
+**[Découvrir mon portfolio](https://chamlarr1994.github.io/Portfolio/)** — une vitrine publique sans code source, archive ni fichier de travail.
 
 ## Applications métier et IA appliquée
 
-| Projet | Usage | Statut public |
+| Projet | Usage | Présentation |
 | --- | --- | --- |
-| CHamDocs | Rechercher dans plusieurs documents et répondre avec des sources. | Présentation détaillée privée |
-| CHamFlow | Transformer une idée en cadrage et diagramme. | Présentation détaillée privée |
-| CHamForm | Importer un CV Word, PDF ou image et générer un Word modifiable avec photo à partir de cinq modèles balisés pour CHamHunter. | Présentation détaillée privée |
-| CHamHunter | Comparer une candidature à une annonce et préparer son adaptation. | Présentation détaillée privée |
+| CHamDocs | Rechercher dans plusieurs documents et répondre avec des sources. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamdocs.html) |
+| CHamFlow | Transformer une idée en cadrage et diagramme. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamflow.html) |
+| CHamForm | Importer un CV Word, PDF ou image et générer un Word modifiable avec photo à partir de cinq modèles balisés pour CHamHunter. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamform.html) |
+| CHamHunter | Comparer une candidature à une annonce et préparer son adaptation. | [Découvrir](https://chamlarr1994.github.io/Portfolio/chamhunter.html) |
 
 ## Projets créatifs et explorations personnelles
 
-- **Ascension Divine** : jeu Roblox et travail de diplôme sur le développement assisté par IA.
-- **CHamTV** : exploration d’une application web multimédia.
+- **[Ascension Divine](https://chamlarr1994.github.io/Portfolio/ascension-divine.html)** : jeu Roblox et travail de diplôme sur le développement assisté par IA.
+- **[CHamTV](https://chamlarr1994.github.io/Portfolio/chamtv.html)** : exploration d’une application web multimédia.
 
 ## Ma démarche
 
@@ -26,4 +26,4 @@ Je définis les besoins et les parcours, utilise l’IA pour assister le dévelo
 
 Les présentations précisent ce qui fonctionne et ce qui reste prévu. Certains dépôts de code restent privés ; leurs usages et mes contributions sont décrits dans le portfolio.
 
-[Échanger sur LinkedIn](https://www.linkedin.com/in/taame-beraki/)
+[Échanger sur LinkedIn](https://www.linkedin.com/in/taame-beraki/) · [Dépôt public de la vitrine](https://github.com/CHamlarr1994/Portfolio)
